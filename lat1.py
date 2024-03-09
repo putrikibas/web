@@ -36,7 +36,7 @@ st.markdown(
             
         }
         [data-testid="baseButton-header"] {
-            display; none;
+            display: none;
             
         }
         
