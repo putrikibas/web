@@ -26,3 +26,19 @@ PAGES = {
 st.sidebar.image("asli.jpg", width=200)
 page = st.sidebar.radio("Halaman",list(PAGES.keys()))
 PAGES[page]()
+
+st.markdown(
+    """
+        <style>
+        [data-testid="stActionButtonIcon"] {
+            display: none;
+        }
+        [data-testid+"baseButton-header"] {
+            display; none;
+        }
+        
+        </style>
+        """,
+        
+    unsafe_allow_html=True,
+)
