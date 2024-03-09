@@ -29,6 +29,7 @@ PAGES[page]()
 
 st.markdown(
     """
+    
         <style>
         [data-testid="stActionButtonIcon"] {
             display: none;
