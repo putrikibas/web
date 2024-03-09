@@ -40,6 +40,9 @@ st.markdown(
             
         }
         
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hiddrn;}
+        
         </style>
         """,
         
