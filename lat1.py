@@ -33,7 +33,7 @@ st.markdown(
         [data-testid="stActionButtonIcon"] {
             display: none;
         }
-        [data-testid+"baseButton-header"] {
+        [data-testid="baseButton-header"] {
             display; none;
         }
         
