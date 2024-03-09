@@ -32,9 +32,11 @@ st.markdown(
         <style>
         [data-testid="stActionButtonIcon"] {
             display: none;
+            
         }
         [data-testid="baseButton-header"] {
             display; none;
+            
         }
         
         </style>
